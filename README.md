@@ -9,7 +9,7 @@ Aspiring to be a full-stack developer, I'm working to enhance my front-end skill
 * 🌍  I'm based in Saudi Arabia, Riyadh
 * ✉️  You can contact me at [aljuraysiH@gmail.com](mailto:aljuraysiH@gmail.com)
 * 🧠  I'm learning React
-* 🤝  I'm open to collaborating on anything that will improve me.
+* 🤝  I'm open to collaborating on anything that will improve my skills.
 
 ### Skills
 
